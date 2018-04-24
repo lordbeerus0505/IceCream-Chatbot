@@ -1,0 +1,43 @@
+[
+    {"text": "i would like to have ice cream", "label": "buy"},
+    {"text": "can i have ice cream", "label": "buy"},
+    {"text": "could i have ice cream", "label": "buy"},
+    {"text": "may i have ice cream", "label": "buy"},
+    {"text": "i want buy ice cream", "label": "buy"},
+    {"text": "i want to purchase", "label": "buy"},
+    {"text": "like to have", "label": "buy"},
+
+    {"text": "do you have", "label": "enquiry"},
+    {"text": "can see card", "label": "enquiry"},
+    {"text": "show menu card", "label": "enquiry"},
+    {"text": "can i look the menu", "label": "enquiry"},
+
+    {"text": "can i know the price", "label": "cost"},
+    {"text": "can i know the cost", "label": "cost"},
+    {"text": "could i know the price", "label": "cost"},
+    {"text": "could i know the cost", "label": "cost"},
+    {"text": "tell me the price", "label": "cost"},
+  {"text": "how much does ice cream cost", "label": "cost"},
+
+
+
+    {"text": "i dont want ", "label": "not"},
+  {"text": "anything else", "label": "not"},
+  {"text": "other than this ", "label": "not"},
+  {"text": "beside", "label": "not"},
+
+
+
+
+    {"text": "hello", "label": "irr"},
+  {"text": "how are you", "label": "irr"},
+  {"text": "where from", "label": "irr"},
+  {"text": "what doing", "label": "irr"},
+  {"text": "hungry", "label": "irr"},
+  {"text": "thirsty", "label": "irr"},
+  {"text": "angry", "label": "irr"},
+  {"text": "why am", "label": "irr"},
+  {"text": "why is it", "label": "irr"},
+
+  {"text": " want to leave ", "label": "leave"}
+]
